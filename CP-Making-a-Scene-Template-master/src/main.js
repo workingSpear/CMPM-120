@@ -1,6 +1,6 @@
 // Code Practice: Making a Scene
-// Name:
-// Date: 
+// Name: Kait Srivastav
+// Date: 01/12/2026
 
 "use strict"
 
